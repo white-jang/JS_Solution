@@ -21,4 +21,10 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Se
   
 문제 34.  
 배열 비교하는 방법  
-https://all-dev-kang.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-%ED%98%95%EB%8B%98%EC%9D%98-%EC%86%94%EB%A3%A8%EC%85%98  
+https://all-dev-kang.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-%ED%98%95%EB%8B%98%EC%9D%98-%EC%86%94%EB%A3%A8%EC%85%98  \
+  
+문제 37.  
+foreach, for in, for of 차이점  
+https://jsdev.kr/t/for-in-vs-for-of/2938  
+배열의 메소드들 정리  
+http://blog.302chanwoo.com/2017/08/javascript-array-method/  
