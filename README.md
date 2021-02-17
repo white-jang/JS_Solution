@@ -14,6 +14,7 @@ JavaScript 식별자는 문자, 밑줄(_) 혹은 달러 기호($)로 시작해�
   
 var, let, const의 차이  
 https://velog.io/@bathingape/JavaScript-var-let-const-%EC%B0%A8%EC%9D%B4%EC%A0%90  
+https://hjh5488.tistory.com/41 (조금 더 자세한 설명)  
   
 문제 20.  
 Set 객체  
@@ -28,3 +29,12 @@ foreach, for in, for of 차이점
 https://jsdev.kr/t/for-in-vs-for-of/2938  
 배열의 메소드들 정리  
 http://blog.302chanwoo.com/2017/08/javascript-array-method/  
+  
+문제 41.  
+javascript 동치 연산자 ==와 ===의 차이점  
+https://hyunseob.github.io/2015/07/30/diffrence-between-equality-and-identity-in-javascript/  
+  
+문제 42.  
+Date 객체  
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date    
+  
