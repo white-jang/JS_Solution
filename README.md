@@ -37,4 +37,8 @@ https://hyunseob.github.io/2015/07/30/diffrence-between-equality-and-identity-in
 
 **문제 42.**  
 Date 객체  
-https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date  
+
+**문제 56.**  
+apply() 메소드   
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/apply  
